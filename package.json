@@ -1,0 +1,7 @@
+{
+  "name": "kedar-industries-coming-soon",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
